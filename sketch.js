@@ -6,7 +6,7 @@ var slingshot;
 var polygon;
 var score=0;
 var bgimg;
-var bg = "pictures/bg1.png";
+
 var backgroundImg ;
 
 function preload(){
